@@ -8,13 +8,12 @@
 </div>
 
 ### Studying in this moment:
-<div style="display: inline_block"><br/>
-  <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</div><br/>
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mariialbano&bg_color=0d1117&color=b13583&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+### My contributions:
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mariialbano&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
