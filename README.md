@@ -13,7 +13,7 @@
 ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
 
 ### My contributions:
-[![GitHub Streak](https://streak-stats.demolab.com/?user=mariialbano&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=mariialbano&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
